@@ -1,5 +1,5 @@
 import unittest
-from main.py import generate_random_numbers, sum_and_print
+from main import generate_random_numbers, sum_and_print
 
 class TestRandomSum(unittest.TestCase):
 
